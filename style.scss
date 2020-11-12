@@ -1,0 +1,28 @@
+// @import "@fortawesome/fontawesome-free/css/all.css";
+// @import "node_modules/bootstrap/scss/bootstrap";
+
+html, body{
+    overflow:hidden;
+}
+.square{
+    width: 100px;
+    height:100px;
+    background-color:purple;
+    position:absolute;
+}
+
+.square2{
+    width: 100px;
+    height:100px;
+    background-color:magenta;
+    position:absolute;
+    margin-top: 250px;
+}
+
+.square3{
+    width: 100px;
+    height:100px;
+    background-color:blue;
+    position:absolute;
+    margin-top: 500px;
+}
